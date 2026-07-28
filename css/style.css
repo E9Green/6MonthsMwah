@@ -695,10 +695,12 @@ h2{
 
     .letter-box{
 
-        width:97%;
+        width:100%;
+        max-width: 700px;
+
         height:94vh;
 
-        padding:22px;
+        padding:16px;
 
         border-radius:18px;
 
