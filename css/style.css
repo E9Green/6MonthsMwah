@@ -776,9 +776,15 @@ h2{
 
     #memory-text{
 
-        width:96%;
+        width:92%;
+        max-width:650px;
+    
         margin:25px auto;
+    
+        text-align:left;
+    
         font-size:20px;
+    
         line-height:1.8;
     
     }
@@ -978,9 +984,12 @@ h2{
 
 .ps-section p{
 
-    width:80%;
+    width:92%;
+    max-width:650px;
 
     margin:auto;
+
+    text-align:left;
 
 }
 
