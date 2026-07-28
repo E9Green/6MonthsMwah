@@ -119,47 +119,47 @@ const memories = [
 
 {
     image:"assets/memories/pic1.jpg",
-    text:"Write your first memory here."
+    text:"Yknow I was mad shy going to you that day, first time I ever did something like that. I'm not really a train type of person or a let's go to this long distance spot but I said fuck it we ball and went and I LOVED THAT I WENT. I already loved you so much from the calls/texting but in person? That's my baby girl. It was nice meeting you, I loved how relaxing it was maybe it was shy at first but duhhh right away we just relaxed and talked like we usually do but way better since I can just go poke poke. I remember you stared at me, kissed me, held me. I loved all that, I love you"
 },
 
 {
     image:"assets/memories/pic2.jpg",
-    text:"Write your second memory here."
+    text:"I was shy at first from pictures and now look at us :p I love taking pictures with you baby. You look good in that green shirt btw and those glasses? MWAHH, go fix them soon smhh I love your hair so much btw you do so good cutting it, still waiting on someone to cut my hair :) I love this picture, look at us smiling. Two cuties mwahh."
 },
 
 {
     image:"assets/memories/pic3.jpg",
-    text:"Write your third memory here."
+    text:"I like this picture a lot, We got us hugging like EWWWWWW you're weird :)) Then we got my pops watching tv. You've helped a lot with him btw, thank you. He likes you a lot, means a lot to me. I love holding you and it's cute that you check the camera after to see us."
 },
 
 {
     image:"assets/memories/pic4.jpg",
-    text:"Write your fourth memory here."
+    text:"We're adorable. I love your smile and you make me smile. That's me happy because of us and you, you're an amazing person whom I love lots lots mwah."
 },
 
 {
     image:"assets/memories/pic5.jpg",
-    text:"Write your fifth memory here."
+    text:"I really like youre forehead :) you can tell from the smile. Such a cute picture my babygirl blocking her face because I went FOREHEAD!!!, look at that smile from me mwah. You're so beautiful baby."
 },
 
 {
     image:"assets/memories/pic6.jpg",
-    text:"Write your sixth memory here."
+    text:"Issa Coco!! I love my baby, our baby honestly :)) You make coco go peepee weirdo smh mwah, I liked that day a lot. Showing you my outfit and you hyping me up goshh and then coco taking picture with her I love the memories lots and I had a blast with my friends too mwah. Thank you for calling me handsome :))"
 },
 
 {
     image:"assets/memories/pic7.jpg",
-    text:"Write your seventh memory here."
+    text:"Issa beautiful baby :)) I love her, I want to get her as a tattoo on my arm along with my papa one day :p I would like you to be there rooting for me. She's so adorable I love her, I love you"
 },
 
 {
     image:"assets/memories/pic8.jpg",
-    text:"Write your eighth memory here."
+    text:"Someone took my ice cream that day :p I enjoyed yours a lot ngl even tho it was just straight choclate but it was good can't lie. You look good taking a bitw btw, sexy. That mouth is overall sexy along with that face and again I love that green shirt on you or is it a green sweatshirt? it's a green gabby mwah."
 },
 
 {
     image:"assets/memories/pic9.jpg",
-    text:"Write your ninth memory here."
+    text:"My little baby in a cone :)) Can't wait when I get the money to get her all her shots/vet visit and haircut. I love her lots, she's a coco!! issa coco!!. I love you baby :)) I'm glad that you like that picture mwah."
 }
 
 ];
