@@ -677,166 +677,269 @@ h2{
 
 @media (max-width:768px){
 
+    /* ---------- General ---------- */
+
     h1{
-
-        font-size:42px;
-
+        font-size:38px;
     }
 
     h2{
-
         font-size:22px;
-
     }
 
     #envelope{
-
-        width:240px;
-
+        width:230px;
     }
+
+    /* ---------- Letter ---------- */
 
     .letter-box{
 
-        width:95%;
-        height:92vh;
-        padding:30px;
+        width:97%;
+        height:94vh;
+
+        padding:22px;
+
+        border-radius:18px;
 
     }
 
     .letter-box h1{
 
-        font-size:42px;
-
-    }
-
-    #letter-text{
-
-        font-size:20px;
-        line-height:1.8;
-
-    }
-
-    #continue-btn{
-
-        width:100%;
-        font-size:22px;
+        font-size:40px;
+        margin-bottom:20px;
 
     }
 
     .howl-picture{
 
         width:100%;
+        max-width:330px;
 
     }
 
-    /* Story */
+    #letter-text{
+
+        width:100%;
+
+        font-size:20px;
+
+        line-height:1.9;
+
+        text-align:left;
+
+        white-space:pre-line;
+
+    }
+
+    #continue-btn{
+
+        width:100%;
+        font-size:20px;
+
+        margin-top:35px;
+
+    }
+
+    /* ---------- Story Card ---------- */
+
+    #story-page{
+
+        padding:25px 10px;
+
+    }
 
     .story-container{
 
         width:98%;
-        padding:22px 16px;
-    
+
+        padding:18px;
+
+        border-radius:20px;
+
     }
 
     .story-title{
 
-        font-size:42px;
+        font-size:38px;
+
+        margin-bottom:25px;
 
     }
+
+    /* ---------- Birthday ---------- */
 
     .birthday-letter{
 
         width:100%;
+
         padding:20px;
+
+        margin:0 auto 35px;
+        background:#fff7f5;
+
+        border-radius:18px;
+
+        box-shadow:0 8px 20px rgba(0,0,0,.08);
 
     }
 
     .birthday-letter p{
 
         width:100%;
-        max-width:none;
+
+        text-align:left;
+
         font-size:20px;
-        line-height:1.8;
+
+        line-height:1.9;
+
+        white-space:pre-line;
 
     }
+
+    /* ---------- Counter ---------- */
 
     .counter div{
 
-        font-size:25px;
+        font-size:23px;
 
     }
+
+    /* ---------- Memory ---------- */
 
     .memory-photo{
 
         width:100%;
-        max-width:320px;
+
+        max-width:360px;
+
         height:auto;
 
     }
 
     #memory-text{
 
-        width:92%;
-        max-width:650px;
-    
+        width:100%;
+
         margin:25px auto;
-    
-        text-align:left;
-    
+
         font-size:20px;
-    
-        line-height:1.8;
-    
+
+        line-height:1.9;
+
+        text-align:left;
+
     }
+
+    /* ---------- Navigation ---------- */
 
     .memory-controls{
 
         display:flex;
-    
+
         justify-content:space-between;
-    
+
         align-items:center;
-    
-        flex-wrap:nowrap;
-    
-        gap:12px;
-    
+
+        gap:8px;
+
         margin-top:25px;
-    
+
     }
-    
+
     .arrow{
 
-        flex:1;
-    
-        max-width:120px;
-    
-        min-width:95px;
-    
-        padding:12px 10px;
-    
-        font-size:16px;
-    
-    }
-    
-    .dots{
-    
+        width:95px;
+
+        padding:10px 8px;
+
+        font-size:14px;
+
         flex-shrink:0;
-    
-        gap:8px;
-    
+
     }
+
+    .dots{
+
+        flex:1;
+
+        display:flex;
+
+        justify-content:center;
+
+        gap:8px;
+
+    }
+
+    .dot{
+
+        width:13px;
+
+        height:13px;
+
+    }
+
+    /* ---------- Lists ---------- */
 
     .checklist,
     .bucket{
+
+        width:100%;
+
+        text-align:left;
+
+        font-size:20px;
+
+        line-height:1.9;
+
+    }
+
+    .bucket{
+
+        max-width:none;
+
+    }
+
+    .bucket label{
+
+        display:flex;
+
+        align-items:flex-start;
+
+        gap:12px;
 
         font-size:20px;
 
     }
 
+    .bucket input{
+
+        margin-top:5px;
+
+        transform:scale(1.3);
+
+    }
+
+    /* ---------- Ending ---------- */
+
+    .ending p{
+
+        text-align:left;
+
+        font-size:20px;
+
+        line-height:1.9;
+
+    }
+
+    /* ---------- P.S. ---------- */
+
     .ps-section{
 
         width:100%;
+
+        margin:50px auto;
 
     }
 
@@ -849,42 +952,22 @@ h2{
     .ps-section p{
 
         width:100%;
+
+        text-align:left;
+
         font-size:20px;
-        line-height:1.8;
+
+        line-height:1.9;
 
     }
 
-}
+    .credits{
 
-.birthday-letter{
+        font-size:16px;
 
-    width:85%;
+        line-height:1.6;
 
-    max-width:760px;
-
-    margin:0 auto 45px;
-
-    padding:30px;
-
-    background:#fff7f5;
-
-    border-radius:18px;
-
-    box-shadow:0 10px 25px rgba(0,0,0,.08);
-
-}
-
-.birthday-letter p{
-
-    font-size:21px;
-
-    line-height:1.9;
-
-    text-align:center;
-
-    color:#555;
-
-    white-space:pre-line;
+    }
 
 }
 /* ------------------------- */
@@ -1024,22 +1107,5 @@ h2{
     transform:scale(1.4);
 
     margin-right:12px;
-
-}
-.memory-nav{
-
-    display:flex;
-
-    justify-content:space-between;
-
-    gap:15px;
-
-    flex-wrap:nowrap;
-
-}
-
-.memory-nav button{
-
-    flex:1;
 
 }
